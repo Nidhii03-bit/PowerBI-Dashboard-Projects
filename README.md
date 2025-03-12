@@ -1,4 +1,4 @@
-# Power BI Project - [Project Name]
+# Power BI Project - [Project1]
 ## Overview  
 This project is a data visualization dashboard created using Power BI. It provides insights into key metrics and trends to support data-driven decision-making.
 
