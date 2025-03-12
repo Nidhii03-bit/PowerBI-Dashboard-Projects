@@ -24,4 +24,4 @@ Line chart, clustered bar chart, and stacked column chart for trend analysis.
 - Microsoft Excel  
   
 ## Project Link
-🔗 [GitHub Repository URL]
+(https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/84b5410ca0272f81c1613b57f08c883b30edd856/Project-2/Power%20Bi%20Project%202.pbix)
