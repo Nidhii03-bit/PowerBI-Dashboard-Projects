@@ -11,5 +11,8 @@ This project is a data visualization dashboard created using Power BI. It provid
 - Trend analysis to identify patterns and insights
 - KPI tracking for performance evaluation
 
+## Dashboard Preview
+[Dashboard Screenshot](dashboard_preview.png)
+
 ## How to Access  
 Download the .pbix file from this repository and open it using Microsoft Power BI Desktop. 
