@@ -14,7 +14,7 @@ Line chart, clustered bar chart, and stacked column chart for trend analysis.
 - Interactive Filters: Slicers to refine data for deeper insights.
 
 ## Dashboard Preview  
-![Dashboard Preview]([dashboard_preview.png](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/f48d5754ebd0b86a72e25153b1837b249c798e32/Project-2/sales_dashboard.png))
+![Dashboard Preview](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/5730166ccc3a65c563af253dd4ab01a49943807e/Project-2/sales_dashboard.png)
 ![Dashboard Preview]([dashboard_preview.png](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/597b678537e0dec9d912f499cacd53e604635d89/Project-2/inventory_and_dealer_performance.png))
 ![Dashboard Preview]([dashboard_preview.png](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/59c100226a010c906050fd52697729bc921e7624/Project-2/customer_demographics.png))
 ![Dashboard Preview](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/3055d0c6dc3286f091c4a681a12b8d278d21f361/Project-2/car_features_and_preferences.png)
