@@ -15,7 +15,7 @@ Line chart, clustered bar chart, and stacked column chart for trend analysis.
 
 ## Dashboard Preview  
 ![Dashboard Preview]([dashboard_preview.png](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/f48d5754ebd0b86a72e25153b1837b249c798e32/Project-2/sales_dashboard.png))
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]([dashboard_preview.png](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/597b678537e0dec9d912f499cacd53e604635d89/Project-2/inventory_and_dealer_performance.png))
 ![Dashboard Preview](dashboard_preview.png)
 ![Dashboard Preview](dashboard_preview.png)
 
