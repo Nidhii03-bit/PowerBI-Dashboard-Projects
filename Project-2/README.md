@@ -16,7 +16,7 @@ Line chart, clustered bar chart, and stacked column chart for trend analysis.
 ## Dashboard Preview  
 ![Dashboard Preview](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/5730166ccc3a65c563af253dd4ab01a49943807e/Project-2/sales_dashboard.png)
 ![Dashboard Preview](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/ddcb11402c7920e2af29f029ef61499b27d206f3/Project-2/inventory_and_dealer_performance.png)
-![Dashboard Preview]([dashboard_preview.png](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/59c100226a010c906050fd52697729bc921e7624/Project-2/customer_demographics.png))
+![Dashboard Preview](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/1725196c0acd1747682cc910cb88b77bac871391/Project-2/customer_demographics.png)
 ![Dashboard Preview](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/3055d0c6dc3286f091c4a681a12b8d278d21f361/Project-2/car_features_and_preferences.png)
 
 ## Tools Used
