@@ -12,7 +12,7 @@ This project is a data visualization dashboard created using Power BI. It provid
 - KPI tracking for performance evaluation
 
 ## Dashboard Preview
-[Dashboard Screenshot](dashboard_preview.png)
+[Dashboard Screenshot](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/ff3a5b32fa40b221e84d95f5cd1900802eabfb0c/dashboard_preview.png)
 
 ## How to Access  
 Download the .pbix file from this repository and open it using Microsoft Power BI Desktop. 
