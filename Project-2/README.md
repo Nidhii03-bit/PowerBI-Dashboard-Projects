@@ -14,7 +14,7 @@ Line chart, clustered bar chart, and stacked column chart for trend analysis.
 - Interactive Filters: Slicers to refine data for deeper insights.
 
 ## Dashboard Preview  
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]([dashboard_preview.png](https://github.com/Nidhii03-bit/PowerBI-Dashboard-Projects/blob/f48d5754ebd0b86a72e25153b1837b249c798e32/Project-2/sales_dashboard.png))
 ![Dashboard Preview](dashboard_preview.png)
 ![Dashboard Preview](dashboard_preview.png)
 ![Dashboard Preview](dashboard_preview.png)
