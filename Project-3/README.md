@@ -15,6 +15,5 @@ This Power BI project provides a detailed SEO Analysis Dashboard for a website. 
 - Power BI Desktop  
 - Power Query  
 - Excel (source cleanup)
-
-  ## Purpose:
-  This dashboard helps content creators, marketers, and webmasters quickly identify SEO strengths and weaknesses to improve organic visibility.
+## Purpose:
+This dashboard helps content creators, marketers, and webmasters quickly identify SEO strengths and weaknesses to improve organic visibility.
